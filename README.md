@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kirin90395433,a Chinese software developer working in Japan
+- 👋 Hi, I’m @kirin90395433, a Chinese software developer working in Japan
 - 👀 I’m interested in sodoku and running
 - 🌱 I’m currently learning Japanese
 - 📫 Feel free to reach out to me at kirin.90395433@gmail.com
